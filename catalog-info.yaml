@@ -6,6 +6,8 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: yrekass/payment-api
+    backstage.io/source-location: url:file://.
+    backstage.io/managed-by-location: url:file://.
   tags:
     - demo
     - local
