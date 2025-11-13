@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Payment API
+  name: payment-api
   description: Service de test pour démonstration
   annotations:
     backstage.io/techdocs-ref: dir:.
