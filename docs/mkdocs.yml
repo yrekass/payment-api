@@ -1,0 +1,7 @@
+site_name: "TechDocs CLI Demo"
+docs_dir: docs
+nav:
+  - Accueil: index.md
+  - Démarrage: getting-started.md
+plugins:
+  - techdocs-core

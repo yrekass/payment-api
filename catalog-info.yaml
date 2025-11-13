@@ -5,7 +5,7 @@ metadata:
   description: Service de test pour démonstration
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: monorg/mon-service
+    github.com/project-slug: yrekass/payment-api
     backstage.io/source-location: url:file://.
     backstage.io/managed-by-location: url:file://.
   tags:
@@ -13,5 +13,5 @@ metadata:
     - local
 spec:
   type: service
-  owner: team-dev
+  owner: guests
   lifecycle: experimental
