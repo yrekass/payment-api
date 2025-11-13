@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Payment API
+  description: Service de test pour démonstration
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: monorg/mon-service
+    backstage.io/source-location: url:file://.
+    backstage.io/managed-by-location: url:file://.
+  tags:
+    - demo
+    - local
+spec:
+  type: service
+  owner: team-dev
+  lifecycle: experimental
